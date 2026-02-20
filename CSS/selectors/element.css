@@ -1,0 +1,15 @@
+.one {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+#two {
+    color: green;
+}
+
+* {
+    color: blue;
+}

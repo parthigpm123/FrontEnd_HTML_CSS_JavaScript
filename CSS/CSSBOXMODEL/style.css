@@ -1,0 +1,15 @@
+        h1 {
+            background-color: black;
+            color: white;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        
+        p {
+            color: rgb(250, 250, 252);
+            background-color: rgb(17, 21, 22);
+            margin: 20px;
+            padding: 20px;
+            border: 10px solid rgb(235, 10, 10);
+            font-size: 38px;
+        }
