@@ -1,0 +1,26 @@
+CSS Font Weight
+The CSS font-weight property specifies how thick or thin characters in text should be displayed.
+
+This property can have one of the following values:
+
+normal - This is default. Defines normal characters
+bold - Defines thick characters
+bolder - Defines thicker characters
+lighter - Defines lighter characters
+100-900 - Defines from thin to thick characters. 400 is the same as normal, and 700 is the same as bold
+Example
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}

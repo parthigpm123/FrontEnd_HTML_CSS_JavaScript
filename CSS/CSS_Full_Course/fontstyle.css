@@ -1,0 +1,19 @@
+The CSS font-style property specifies the font style for a text..
+
+This property can have one of the following values:
+
+normal - The text is shown normally
+italic - The text is shown in italics
+oblique - The text is "leaning" (oblique is very similar to italic)
+Example
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}

@@ -1,0 +1,31 @@
+h1{
+      border: 2px dashed;
+
+      border-top-width: 10px;
+      border-top-color: blue;
+      border-bottom-color: rgb(162, 239, 7);
+      border-bottom-width: 10px;
+      
+      border-right-width: 7px;
+      border-left-width: 7px;
+      text-align: center;
+      outline: 5px solid blue;
+
+      
+
+}
+
+.circle{
+      margin:2em auto;
+      border: 10px solid green;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px; 
+      outline: 5px dashed red;
+      outline-offset: 10px;  
+      background-color: yellow;
+
+
+
+
+}
