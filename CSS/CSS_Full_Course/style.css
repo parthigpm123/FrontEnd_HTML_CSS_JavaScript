@@ -2,6 +2,18 @@ h1{
       color: blue
 }
 p{ 
-      color: rgb(15, 135, 240);
+      color: rgba(253, 3, 241, 0.774);
+      font-size: 60px;
 
+}
+
+#one{
+      color:rgb(79, 180, 12)
+}
+
+body{
+      font-size: 60px;
+      font-family: 'Courier New', Courier, monospace;
+      background-color: rgb(193, 193, 196);
+      color: blue;
 }

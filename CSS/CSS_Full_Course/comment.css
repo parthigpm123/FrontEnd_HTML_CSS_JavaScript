@@ -1,0 +1,13 @@
+/* This is a single-line comment */
+p {
+  color: red; /* Set text color to red */
+}
+
+/* 
+ * This is a multi-line 
+ * comment that explains 
+ * the code below. 
+ */
+body {
+  background-color: #f5f5f5;
+}
