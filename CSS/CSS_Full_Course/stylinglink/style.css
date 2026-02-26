@@ -1,0 +1,9 @@
+a{
+      text-decoration: underline;
+      
+      color: rgb(255, 94, 0);
+}
+
+a:visited{
+      color: blueviolet;
+}
