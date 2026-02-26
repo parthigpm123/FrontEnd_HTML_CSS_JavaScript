@@ -5,5 +5,8 @@ a{
 }
 
 a:visited{
-      color: blueviolet;
+      color: rgb(53, 52, 54);
+}
+a:hover{
+      color:blueviolet
 }
