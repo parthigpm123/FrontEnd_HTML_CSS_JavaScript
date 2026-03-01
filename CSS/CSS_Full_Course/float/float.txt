@@ -1,0 +1,21 @@
+CSS Float
+Pineapple
+
+The float property specifies how an element should float within its container.
+
+It places an element on the left or right side of its container, allowing text and inline elements to wrap around it.
+
+The image inside this <div> is floated to the right.
+
+If you make the screen smaller, you will see that the text wraps around the image.
+
+The CSS float Property
+The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.
+
+This property can have one of the following values:
+
+left - The element floats to the left of its container
+right - The element floats to the right of its container
+none - Default. The element does not float and is displayed just where it occurs in the text
+inherit - The element inherits the float value of its parent
+Tip: The float property is often used to wrap text around images!

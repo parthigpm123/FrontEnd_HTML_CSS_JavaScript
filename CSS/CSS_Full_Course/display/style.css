@@ -1,0 +1,11 @@
+Common display Values
+The CSS display property has many values. The following table lists the most commonly used:
+
+Value	Description
+inline	Displays an element as an inline element
+block	Displays an element as a block element
+contents	Makes the container disappear, making its child elements children of the element the next level up in the DOM
+flex	Displays an element as a block-level flex container
+grid	Displays an element as a block-level grid container
+inline-block	Displays an element as an inline-level block container. The element itself is formatted as an inline element, but you can apply height, width, padding, and margin values
+none	The element is completely hidden from the document flow (does not take up any space).

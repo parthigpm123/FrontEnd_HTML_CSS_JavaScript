@@ -1,0 +1,30 @@
+body{
+      font-size: 2rem;
+}
+
+.column{
+      column-count: 4;
+      column-width: 230;
+      column-rule: 3px solid gold;
+
+}
+
+.column p{
+      margin: 0%;
+}
+
+.column h2{
+      margin: 0;
+      background-color: rgb(6, 132, 243);
+      padding: 3rem;
+      break-before: avoid;
+
+}
+
+.quote{
+      color: white;
+      background-color: black;
+      text-align: center;
+      font-size: 3rem;
+
+}

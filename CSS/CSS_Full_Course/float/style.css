@@ -1,0 +1,28 @@
+body{
+      font-size: 1rem;
+}
+
+.block{
+      background-color: black;
+      width: 30vw;
+      color: aliceblue;
+      height: 30vw;
+      padding: 1rem;
+}
+
+.left{
+      float: left;
+      margin: 1rem;
+      margin-top: 0px;
+
+}
+
+.right{
+      float: right;
+      margin-top: 30rem;
+
+}
+
+.pa{
+      margin-top: 15rem;
+}
