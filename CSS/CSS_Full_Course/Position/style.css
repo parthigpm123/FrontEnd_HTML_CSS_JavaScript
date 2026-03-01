@@ -1,0 +1,23 @@
+.one{
+      background-color: black;
+      height: 100px;
+      width: 100px;
+      margin-top: 10px;
+}
+
+.two{
+      background-color: brown;
+      height: 100px;
+      width: 100px;
+      margin-top: 10px;
+      position: relative;
+      left: 50px;
+      top: 50px;
+}
+
+.three{
+      background-color: yellow;
+      height: 100px;
+      width: 100px;
+      margin-top: 10px;
+}
