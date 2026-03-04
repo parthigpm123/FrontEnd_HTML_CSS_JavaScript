@@ -1,0 +1,44 @@
+*{
+      margin: 0;
+      padding: 0;
+      font-family: 'Courier New', Courier, monospace;
+      box-sizing: border-box;
+}
+
+.container{
+      border: 5px solid black;
+      margin: 20px;
+}
+
+.grid-item{
+      color: white;
+      font-size: 18px;
+      padding: 16px;
+      text-align: center;
+}
+
+.box-1{background-color: blue;}
+.box-2{background-color: rgb(231, 209, 5);}
+.box-3{background-color: rgb(238, 6, 133);}
+.box-4{background-color: red;}
+.box-5{background-color: skyblue;}
+.box-6{background-color: green;}
+.box-7{background-color: brown;}
+.box-8{background-color: lawngreen;}
+.box-9{background-color: darkgray;}
+
+
+
+.container{
+      display: grid;
+      grid-template: repeat(3,200px)/ repeat(3,200px);
+      
+      
+
+
+
+}
+.box-1{
+      grid-column-start: 1;
+      grid-column-end: 4;
+}
