@@ -13,7 +13,9 @@ body{
       padding-left: 20px;
       border: 3px solid red;
 }
-
+img{
+      display:block;
+}
 .example img{
       width: 25%;
       height: auto;
