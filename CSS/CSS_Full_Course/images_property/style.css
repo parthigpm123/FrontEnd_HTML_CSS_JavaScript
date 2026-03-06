@@ -6,6 +6,8 @@
 
 body{
       min-height: 100vh;
+      background-color: rgb(233, 233, 233);
+      /* background-image: url(images\ .jpeg),linear-gradient(to left, steelblue, white); */
       
 }
 
@@ -13,7 +15,7 @@ body{
       margin-top: 2rem;
       padding-left: 20px;
       border: 3px solid red;
-      background-image: url(download.jpeg);
+      /* background-image: url(download.jpeg); */
       border-radius: 50px;
 }
 img{
@@ -23,5 +25,17 @@ img{
 .example img{
       width: 25%;
       height: auto;
+      
+}
+
+p{
+      font-weight: 700;
+      font-size: 18rem;
+      background-color: aqua;
+      text-align: center;
+      color: rgba(240, 248, 255, 0.24);
+
+      background-image: url(img.jpg);
+      -webkit-background-clip: text;
       
 }
