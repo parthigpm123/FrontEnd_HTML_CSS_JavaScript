@@ -1,0 +1,48 @@
+Common Use Cases and Examples
+Pseudo-classes provide dynamic styling and enhanced user experience. They can be categorized by how they are used: 
+Mimo
+Mimo
+User Action/Interactive States These apply styles based on how a user interacts with the element.
+:hover - Styles an element when the user's pointer is over it.
+:focus - Styles an element when it has focus, such as a selected input field in a form.
+:active - Styles an element while it is being activated (e.g., clicked on or tapped).
+:visited - Styles links that the user has already visited.
+:link - Styles links that have not yet been visited.
+Structural Pseudo-classes These select elements based on their position within the document tree.
+:first-child - Selects the element that is the first child of its parent.
+:last-child - Selects the element that is the last child of its parent.
+:nth-child(n) - Selects a specific child element based on its position (e.g., :nth-child(even) for alternating row colors in a table).
+:only-child - Selects an element if it is the only child of its parent.
+Form States These help style form elements dynamically based on their current state.
+:checked - Selects checkboxes or radio buttons that are toggled on.
+:disabled - Selects form elements that are disabled.
+:enabled - Selects form elements that are enabled.
+:valid and :invalid - Apply styles based on whether the input value meets the form's validation requirements.
+Other Useful Pseudo-classes
+:not(selector) - Applies styles to elements that do not match the selector provided in the parentheses.
+:root - Selects the document's root element (the <html> element in HTML documents).
+:has() - A recent and powerful pseudo-class that matches a parent element if any of the relative selectors passed into its arguments match (often referred to as a "parent selector"). 
+
+
+
+
+
+
+
+Interactive Pseudo-classes
+Interactive pseudo-classes apply styles based on user interaction:
+
+:hover - When mouse is over an element
+:focus - When an element has focus
+:active - When clicked colors changed
+:link - Unvisited links
+:visited - Visited links
+Learn more about Interactive Pseudo-classes »
+
+Structural Pseudo-classes
+Structural pseudo-classes select elements based on their position in the document tree:
+
+:first-child - First child of a parent
+:last-child - Last child of a parent
+:nth-child(n) - The nth child of a parent
+:lang() - Elements with a specific language
