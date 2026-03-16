@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Change the color scheme for all selected text on the page */
+::selection {
+  color: white;
+  background-color: blue;
+}
+
+/* Change the color scheme for selected text within a specific paragraph */
+p::selection {
+  color: gold;
+  background-color: red;
+}
+</style>
+</head>
+<body>
+
+<p>Select this text to see the custom blue and white selection style.</p>
+<div>Try selecting text in this div to see the default browser selection style.</div>
+
+</body>
+</html>
